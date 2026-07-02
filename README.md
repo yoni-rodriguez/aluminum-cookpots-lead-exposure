@@ -12,35 +12,42 @@ DOI: https://doi.org/10.1038/s41370-022-00431-y
 
 ---
 
-## About this Repository
+## About
 
-This repository serves as a companion to our 2022 peer-reviewed publication.
+This repository highlights one of my peer-reviewed publications in environmental health and exposure science.
 
-Its purpose is to organize documentation related to the study and demonstrate reproducible scientific workflows using R and Quarto.
+The research was completed and published in 2022 in the *Journal of Exposure Science & Environmental Epidemiology*. This repository serves as a portfolio entry summarizing the study, its public health significance, and the analytical methods used.
 
-As this repository develops, it will include:
-
-- Project summary
-- R Markdown / Quarto report
-- Figures
-- References
-- Reproducible analytical examples
-- Educational materials related to environmental health and exposure science
+No additional analyses or code are currently planned for this project.
 
 ---
 
-## Research Topic
+## Research Question
 
-This study investigated whether aluminum cookpots used by Afghan refugee families could serve as a source of lead exposure among children resettled in the United States.
-
-The findings contribute to environmental exposure assessment and public health efforts aimed at reducing childhood lead exposure.
+Can aluminum cookpots used by Afghan refugee families serve as a source of lead exposure among children resettled in the United States?
 
 ---
 
-## Citation
+## Methods
 
-If you reference this work, please cite the original publication.
+This study employed:
 
-DOI:
+- X-ray fluorescence (XRF) screening of aluminum cookware
+- Acid leachate testing to quantify lead migration into food simulants
+- Comparative evaluation of stainless-steel cookware
+- Human health exposure assessment
+- Statistical analysis of measured lead concentrations
 
-https://doi.org/10.1038/s41370-022-00431-y
+---
+
+## Public Health Significance
+
+Lead exposure remains one of the most preventable environmental health risks affecting children.
+
+This work identified aluminum cookware as a potential exposure source and provides evidence to support interventions that reduce childhood lead exposure among refugee communities.
+
+---
+
+## Publication
+
+DOI: https://doi.org/10.1038/s41370-022-00431-y
